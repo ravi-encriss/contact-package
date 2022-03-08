@@ -1,6 +1,6 @@
 {
     "name": "encriss/contact",
-    "description": "Contact us form",
+    "description": "This will save contact query in database.",
     "type": "library",
     "license": "MIT",
     "autoload": {
