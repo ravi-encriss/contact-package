@@ -1,0 +1,19 @@
+{
+    "name": "encriss/contact",
+    "description": "Contact us form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Encriss\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ravi Kumar",
+            "email": "ravi@encriss.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
